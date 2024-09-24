@@ -49,5 +49,5 @@ def main():
     solve_nqueens(N, 0, solution)
 
 
-if __name__ == "__main__":
+if _name_ == "_main_":
     main()
